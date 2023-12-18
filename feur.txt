@@ -1,0 +1,114 @@
+'ID de la réponse', 
+ 
+
+ 
+  
+ 
+ 
+ 
+'Renseignez votre âge.',
+ 
+ 
+ 
+ 
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Classe préparatoire AL ou équivalent]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Classe préparatoire BL ou équivalent]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Classe préparatoire ECS ou équivalent]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Faculté de géographie – niveau licence ou équivalent]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Faculté de géographie – niveau master ou équivalent]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Faculté d’histoire – niveau licence ou équivalent]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Faculté d’histoire – niveau master ou équivalent]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Faculté dans une autre discipline – niveau licence ou équivalent]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Faculté dans une autre discipline – niveau master ou équivalent]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [ENS]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [IEP]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Doctorat en géographie]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Doctorat en histoire]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Doctorat dans une autre discipline]',
+'Renseignez votre parcours académique avant d’exercer dans l’éducation nationale. Plusieurs cases peuvent être sélectionnées, merci d’être le plus précis.e possible. [Autre]',
+ 
+
+ 
+ 
+ 
+'Avez-vous reçu une formation à l’enseignement de spécialité?',
+ 
+
+
+'A ce jour, vous considérez vous comme formé.e à la géopolitique et à son enseignement ? [Oui, grâce à ma formation initiale.]',
+'A ce jour, vous considérez vous comme formé.e à la géopolitique et à son enseignement ? [Oui, grâce à la formation continue reçue.]',
+"A ce jour, vous considérez vous comme formé.e à la géopolitique et à son enseignement ? [Oui, par mon travail d'auto-formation]",
+'A ce jour, vous considérez vous comme formé.e à la géopolitique et à son enseignement ? [Non, pas assez]',
+
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 1 première - Comprendre un régime politique : la démocratie]",
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 2 première - Analyser les dynamiques des puissances internationales]",
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 3 première - Étudier les divisions politiques du monde : les frontières]",
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 4 première - S’informer : un regard critique sur les sources et modes de communication]",
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 5 première - Analyser les relations entre États et religions]",
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 1 terminale - De nouveaux espaces de conquête]",
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 2 terminale - Faire la guerre, faire la paix : formes de conflits et modes de résolution]",
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 3 terminale - Histoire et mémoires]",
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 4 terminale - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques]",
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 5 terminale - L’environnement, entre exploitation et protection : un enjeu planétaire]",
+"Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes le plus à l'aise à enseigner : [Thème 6 terminale -  L’enjeu de la connaissance]",
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 1 première - Comprendre un régime politique : la démocratie]',
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 2 première - Analyser les dynamiques des puissances internationales]',
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 3 première - Étudier les divisions politiques du monde : les frontières]',
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 4 première - S’informer : un regard critique sur les sources et modes de communication]',
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 5 première - Analyser les relations entre États et religions]',
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 1 terminale -  De nouveaux espaces de conquête]',
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 2 terminale - Faire la guerre, faire la paix : formes de conflits et modes de résolution]',
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 3 terminale -  Histoire et mémoires]',
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 4 terminale - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques]',
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 5 terminale - L’environnement, entre exploitation et protection : un enjeu planétaire]',
+'Parmi les thèmes de la spécialité suivants, sélectionnez ceux pour lesquels vous êtes les moins à l’aise à enseigner : [Thème 6 terminale - L’enjeu de la connaissance]',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Travail de recherche en autonomie]',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Commentaire]',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Travail de recherche en groupe]',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Commentaire].1',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Présentation orale individuelle]',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Commentaire].2',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Présentation orale en groupe]',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Commentaire].3',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Cours magistral]',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Commentaire].4',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Autres, merci de préciser.]',
+'Quelles méthodologies mettez-vous principalement en œuvre dans votre enseignement de la spécialité\xa0?\xa0 [Commentaire].5',
+
+
+
+
+
+
+
+
+"Selon vous, qu’est-ce qui conduit vos élèves à choisir la spécialité HGGSP en classe de\xa0Première ?\xa0 [Un réel intérêt pour l'histoire-géographie.]",
+"Selon vous, qu’est-ce qui conduit vos élèves à choisir la spécialité HGGSP en classe de\xa0Première ?\xa0 [La recherche d'une plus grande culture générale.]",
+"Selon vous, qu’est-ce qui conduit vos élèves à choisir la spécialité HGGSP en classe de\xa0Première ?\xa0 [Par stratégie pour les résultats et l'obtention du baccalauréat.]",
+'Selon vous, qu’est-ce qui conduit vos élèves à choisir la spécialité HGGSP en classe de\xa0Première ?\xa0 [Par stratégie pour les études supérieures (spécialité recherchée dans les études envisagées).]',
+'Selon vous, qu’est-ce qui conduit vos élèves à choisir la spécialité HGGSP en classe de\xa0Première ?\xa0 [Autre]',
+'Parmi les thèmes de spécialité en classe de Première, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 1 première - Comprendre un régime politique : la démocratie]',
+'Parmi les thèmes de spécialité en classe de Première, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 2 première - Analyser les dynamiques des puissances internationales]',
+'Parmi les thèmes de spécialité en classe de Première, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 3 première - Étudier les divisions politiques du monde : les frontières]',
+'Parmi les thèmes de spécialité en classe de Première, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 4 première - S’informer : un regard critique sur les sources et modes de communication]',
+'Parmi les thèmes de spécialité en classe de Première, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 5 première - Analyser les relations entre États et religions]',
+"Parmi les thèmes de spécialité en classe de Première, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Je n'enseigne pas la spécialité HGGSP en classe de première.]",
+
+'Selon vous, qu’est ce qui conduit vos élèves à conserver la spécialité HGGSP en Terminale ?\xa0 [Un intérêt poussé pour la spécialité HGGSP.]',
+'Selon vous, qu’est ce qui conduit vos élèves à conserver la spécialité HGGSP en Terminale ?\xa0 [La volonté de continuer à développer leur culture générale.]',
+'Selon vous, qu’est ce qui conduit vos élèves à conserver la spécialité HGGSP en Terminale ?\xa0 [Par stratégie pour le baccalauréat ("meilleurs" résultats que dans au moins une des deux autres spécialités de première).]',
+'Selon vous, qu’est ce qui conduit vos élèves à conserver la spécialité HGGSP en Terminale ?\xa0 [Par stratégie pour les études supérieures.]',
+'Selon vous, qu’est ce qui conduit vos élèves à conserver la spécialité HGGSP en Terminale ?\xa0 [Autre]',
+'Parmi les thèmes de spécialité en Terminale, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 1 terminale -  De nouveaux espaces de conquête]',
+'Parmi les thèmes de spécialité en Terminale, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 2 terminale - Faire la guerre, faire la paix : formes de conflits et modes de résolution]',
+'Parmi les thèmes de spécialité en Terminale, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 3 terminale -  Histoire et mémoires]',
+'Parmi les thèmes de spécialité en Terminale, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 4 terminale - Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques]',
+'Parmi les thèmes de spécialité en Terminale, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 5 terminale - L’environnement, entre exploitation et protection : un enjeu planétaire]',
+'Parmi les thèmes de spécialité en Terminale, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Thème 6 terminale - L’enjeu de la connaissance]',
+"Parmi les thèmes de spécialité en Terminale, quels sont les thèmes les plus appréciés par vos élèves\xa0? [Je n'enseigne pas la spécialité HGGSP en classe de terminale.]",
+
+
+
+'IPS voie GT',
+'Sexe_Homme', 
+'Sexe_Femme']
